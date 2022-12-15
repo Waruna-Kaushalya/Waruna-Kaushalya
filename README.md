@@ -1,5 +1,4 @@
-
-![MasterHead](https://docs.flutter.dev/assets/images/dash/Dashatars.png)
+<center><img align="center" height="200" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png"></center>
 
 <h1 align="center">Hi 👋, I'm Waruna Kaushalya</h1>
 
