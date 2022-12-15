@@ -1,4 +1,5 @@
-<center><img align="center" height="200" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png"></center>
+<center><img class="center" height="200" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png"></center>
+
 
 <h1 align="center">Hi 👋, I'm Waruna Kaushalya</h1>
 
@@ -35,3 +36,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waruna-kaushalya&" alt="waruna-kaushalya" /></p>
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
