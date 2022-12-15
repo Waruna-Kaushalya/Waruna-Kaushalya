@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
 <center><img class="center" height="200" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png"></center>
 
 
@@ -42,3 +48,9 @@
   margin-right: auto;
   width: 50%;
 }
+
+
+
+
+</body>
+</html>
