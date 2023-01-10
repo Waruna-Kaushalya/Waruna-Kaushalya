@@ -35,10 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waruna-kaushalya&show_icons=true&locale=en" alt="waruna-kaushalya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waruna-kaushalya&" alt="waruna-kaushalya" /></p>
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
