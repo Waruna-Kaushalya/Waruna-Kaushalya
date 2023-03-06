@@ -1,9 +1,9 @@
 <!-- <center><img class="center" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png"></center> -->
 
 
-<h1 align="center">Hi 👋, I'm Waruna Kaushalya</h1>
+<!-- <h1 align="center">Hi 👋, I'm Waruna Kaushalya</h1> -->
 
-<h3 align="center">Freelance Mobile App Developer | Flutter 💙 Android & iOS | Available to Bring Your Idea to Life!</h3>
+<!-- <h3 align="center">Freelance Mobile App Developer | Flutter 💙 Android & iOS | Available to Bring Your Idea to Life!</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waruna-kaushalya&label=Profile%20views&color=0e75b6&style=flat" alt="waruna-kaushalya" /> </p>
 
