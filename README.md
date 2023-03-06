@@ -1,4 +1,4 @@
-<center><img class="center" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png"></center>
+<!-- <center><img class="center" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png"></center> -->
 
 
 <h1 align="center">Hi 👋, I'm Waruna Kaushalya</h1>
