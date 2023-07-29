@@ -38,3 +38,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waruna-kaushalya&" alt="waruna-kaushalya" /></p>
 <a href="https://docs.flutter.dev/dash">Dash Image Source: Who is Dash?</a>
+
+<!-- replace x.x.x with actual version -->
+<script src="https://unpkg.com/@codersrank/activity@0.9.14/codersrank-activity.min.js"></script>
